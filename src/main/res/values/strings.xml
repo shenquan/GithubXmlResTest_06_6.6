@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">XmlResTest_06_6.6</string>
+    <string name="action_settings">Settings</string>
+    <string name="parse">解析XML资源</string>
+</resources>
